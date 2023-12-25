@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Anirudh/Desktop/kidney%20disease/ML-project/mlruns/0/ef179cd8a0b4480593009f03fea4c240/artifacts
+end_time: 1703516896950
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef179cd8a0b4480593009f03fea4c240
+run_name: unleashed-lynx-302
+run_uuid: ef179cd8a0b4480593009f03fea4c240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703516875450
+status: 3
+tags: []
+user_id: Anirudh
