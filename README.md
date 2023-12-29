@@ -1,5 +1,4 @@
-# ML-project
-# Kidney-Disease-Classification-MLflow-DVC
+# Kidney-Disease-Classification
 
 
 # How to run?
